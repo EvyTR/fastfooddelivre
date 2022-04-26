@@ -598,3 +598,180 @@ letter-spacing: -0.005em;
 color: #44455B;
 
 }
+
+.pag2 {
+    position: absolute;
+width: 1474px;
+height: 919px;
+left: -54px;
+top: 1146px;
+
+}
+
+.tex2 h1{
+    position: absolute;
+width: 223px;
+height: 32px;
+left: 794px;
+top: 87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 32px;
+text-align: center;
+
+color: #F4C276;
+
+}
+
+.tex2 h2{
+    position: absolute;
+width: 484px;
+height: 64px;
+left: 672px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 64px;
+text-align: center;
+
+color: #44455B;
+
+}
+
+.cards{
+    position: absolute;
+width: 902px;
+height: 492px;
+left: 253px;
+top: 232px;
+
+}
+
+.card1{
+    position: absolute;
+width: 302px;
+height: 492px;
+left: 0px;
+top: 0px;
+
+}
+
+.ret1 {
+    position: absolute;
+width: 270px;
+height: 416px;
+left: 32px;
+top: 32px;
+
+background: #FFFFFF;
+box-shadow: 0px 24px 48px rgba(0, 24, 52, 0.080899);
+border-radius: 100px 24px 24px 24px;
+}
+
+.ret1 img{
+    position: absolute;
+width: 270px;
+height: 320px;
+left: -27px;
+top: -18px;
+
+background: #9B9B9B;
+border-radius: 100px 24px 24px 24px;
+}
+
+.cards h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+text-align: right;
+
+color: #333333;
+
+}
+
+.card1 h1{
+    position: absolute;
+width: 191px;
+height: 32px;
+left: 90px;
+top: 325px;
+}
+
+.estrela1 {
+    position: absolute;
+width: 114px;
+height: 17px;
+left: 156px;
+top: 387px;
+
+}
+
+.pre1{
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    left: 37px;
+    top: 400px;
+    border-radius: 50%;    
+
+background: #44455B;
+box-shadow: 0px 16px 24px rgba(0, 24, 52, 0.08);
+
+}
+
+.pre1 h1{
+    
+position: absolute;
+height: 32px;
+left: -122px;
+color: #FFFFFF;
+top: 9px;
+}
+
+.card2 {
+    position: absolute;
+width: 286px;
+height: 391px;
+left: 316px;
+top: 48px;
+
+}
+
+.ret2 {
+    position: absolute;
+width: 270px;
+height: 320px;
+left: 16px;
+top: 32px;
+
+background: #FFFFFF;
+box-shadow: 0px 24px 48px rgba(0, 24, 52, 0.080899);
+border-radius: 50px 24px 24px 24px;
+}
+
+.ret2 img{
+    position: absolute;
+    width: 254px;
+    height: 224px;
+    left: 0px;
+    top: 0px;
+    
+    background: #9B9B9B;
+    border-radius: 50px 24px 24px 24px;
+}
+
+.card2 h1{
+    position: absolute;
+width: 161px;
+height: 32px;
+left: 93px;
+top: 249px;
+}
