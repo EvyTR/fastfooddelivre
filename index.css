@@ -7,8 +7,10 @@
     left: 0px;
     top: 0px;
 }
-
-.pg1 {
+section{
+    min-height: 100px;
+}
+#pg1 {
     position: absolute;
     width: 100%;
     height: 732.96px;
@@ -17,7 +19,19 @@
 
     background: linear-gradient(304.58deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
 }
+.home a:hover{
+    color: #EF633E;
+}
+.menu a:hover{
+    color: #EF633E;
+}
+.contact a:hover{
+    color: #EF633E;
+}
 
+.shop a:hover{
+    color: #EF633E;
+}
 .wind {
     position: absolute;
     width: 159px;
@@ -599,7 +613,7 @@
 
 }
 
-.pag2 {
+.shopping {
     position: absolute;
     width: 1474px;
     height: 919px;
@@ -1218,12 +1232,20 @@
     top: 0px;
 }
 
+#men {
+    position: relative;
+    width: 1309px;
+    height: 592px;
+    left: 0px;
+    top: 2485px;
+}
+
 .card {
     position: absolute;
     width: 286px;
     height: 396px;
     left: 10px;
-    top: 48px;
+    top: 0px;
 }
 
 .ret {
@@ -1231,7 +1253,7 @@
     width: 670px;
     height: 492px;
     left: 142px;
-    top: 2405px;
+    top: 0px;
 
     background: #EF633E;
     border-radius: 24px 100px 24px 24px;
@@ -1254,7 +1276,7 @@
     width: 1309px;
     height: 592px;
     left: 0px;
-    top: 2485px;
+    top: 0px;
 
     background: linear-gradient(180deg, #FFF0EC 0%, #FFDDD4 100%);
     border-radius: 0px 100px 0px 24px;
@@ -1265,7 +1287,7 @@
     width: 152px;
     height: 37px;
     left: 943px;
-    top: 2508px;
+    top: 0px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1282,7 +1304,7 @@
     width: 335px;
     height: 32px;
     left: 851px;
-    top: 2576px;
+    top: 80px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1299,7 +1321,7 @@
     width: 376px;
     height: 101px;
     left: 840px;
-    top: 2730px;
+    top: 250px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1315,7 +1337,7 @@
     width: 48px;
     height: 48px;
     left: 958px;
-    top: 2933px;
+    top: 433px;
 
     border: 1px solid rgba(93, 196, 184, 0.500198);
     box-sizing: border-box;
@@ -1333,7 +1355,7 @@
     width: 48px;
     height: 48px;
     left: 1068px;
-    top: 2933px;
+    top: 433px;
 
     border: 1px solid rgba(93, 196, 184, 0.500198);
     box-sizing: border-box;
@@ -1350,7 +1372,7 @@
     position: absolute;
     height: 32px;
     left: 960px;
-    top: 2925px;
+    top: 420px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
@@ -1643,11 +1665,11 @@
     color: #44455B;
 }
 
-.cel img{
+.cel img {
     position: absolute;
-width: 213.05px;
-height: 297.79px;
-left: 1212.86px;
-top: 3254px;
+    width: 213.05px;
+    height: 297.79px;
+    left: 1212.86px;
+    top: 3254px;
 
 }
